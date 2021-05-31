@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+
 # you can uncomment the line below if using jupyter
 #%matplotlib inline 
 import matplotlib.pyplot as plt
